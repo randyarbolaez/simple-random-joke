@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+
+body {
+  font-family: 'Rubik', sans-serif;
+  background: #b26700;
+}
+
+.wrapper {
+  background: #ffc53a;
+  height: 70vh;
+  text-align: center;
+}
+
+.wrapper h1 {
+  font-size: 6rem;
+  color: #faff81;
+}
+
+.wrapper h2 {
+  font-size: 3rem;
+  color: #161032;
+}
+
+button {
+  margin: 5% 0 0 50%;
+  text-align: center;
+  width: 5vw;
+  height: 5vh;
+  color: #e06d06;
+}
+
+button:hover {
+  box-shadow: 2.5px 5px #faff81;
+}
